@@ -19,6 +19,6 @@ Proyecto Integrador Final: Sistema de Business Intelligence para la Gestión Est
 
 ## Integrantes
 - Nombre de los estudiantes:
-Sergio Andrés Agudelo Marulanda
-Gilliam Argel Monterroza
-Leydi Daniela Correa Herrera
+- Sergio Andrés Agudelo Marulanda
+- Gilliam Argel Monterroza
+- Leydi Daniela Correa Herrera
